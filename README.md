@@ -1,6 +1,8 @@
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-pytest/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+# Minima Structure
+- virtualenv (activate)
+- requirements.txt
+- Makefile
 
 # Github Actions pytest
 Example Github Actions Project designed to show how a hello version of Github Actions testing Python code.
 
-*Part of Duke Coursera Course:  Cloud Computing for Data*
