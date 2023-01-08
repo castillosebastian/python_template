@@ -4,4 +4,5 @@
   + activate 'source ~/.(PROJECT-NAME)/bin/activate'
   + check 'which pyhton' debe estar python en dir
 - requirements.txt (debe tener todas las librerias base)
+  + si no se cuenta con Makefile debe ejecutarse 'pip install -r requirements.txt'
 - Makefile: 'make install'
