@@ -7,3 +7,6 @@
   + si no se cuenta con Makefile debe ejecutarse 'pip install -r requirements.txt'
 - Makefile: 'make install'
 - Ipynb: set virtual env as kernek: 'ipython kernel install --name ".(PROJECT-NAME)" --user'
+
+# Poetry 
+- use files: `poetry.lock`and `pyproject.toml` (see:https://python-poetry.org/docs/basic-usage/)
